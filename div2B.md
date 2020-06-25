@@ -1,27 +1,27 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 |  |
-| 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 |  |
-| 3 | [Watering System](https://codeforces.com/problemset/problem/967/B) | 1000 |  |
-| 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 |  |
-| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 |  |
-| 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 |  |
-| 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 |  |
-| 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 |  |
-| 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 |  |
-| 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 |  |
-| 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 |  |
-| 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 |  |
-| 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 |  |
-| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 |  |
-| 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 |  |
-| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 |  |
-| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 |  |
-| 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 |  |
-| 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 |  |
-| 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 |  |
-| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 |  |
-| 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 |  |
+| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 | YES |
+| 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 | NO |
+| 3 | [Watering System](https://codeforces.com/problemset/problem/967/B) | 1000 | NO |
+| 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 | YES |
+| 5 | [3-palindrome](https://codeforces.com/problemset/problem/805/B) | 1000 | YES |
+| 6 | [Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) | 1000 | YES |
+| 7 | [Timofey and cubes](https://codeforces.com/problemset/problem/764/B) | 1000 | NO |
+| 8 | [Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) | 1000 | NO |
+| 9 | [Buying a TV Set](https://codeforces.com/problemset/problem/1041/B) | 1100 | NO |
+| 10 | [Badges](https://codeforces.com/problemset/problem/1214/B) | 1100 | NO |
+| 11 | [Nauuo and Chess](https://codeforces.com/problemset/problem/1173/B) | 1100 | NO |
+| 12 | [The Festive Evening](https://codeforces.com/problemset/problem/834/B) | 1100 | NO |
+| 13 | [Non-Coprime Partition](https://codeforces.com/problemset/problem/1038/B) | 1100 | YES |
+| 14 | [Minesweeper](https://codeforces.com/problemset/problem/984/B) | 1100 | YES |
+| 15 | [Weird Rounding](https://codeforces.com/problemset/problem/779/B) | 1100 | NO |
+| 16 | [Perfect Number](https://codeforces.com/problemset/problem/919/B) | 1100 | YES |
+| 17 | [Sport Mafia](https://codeforces.com/problemset/problem/1195/B) | 1100 | YES |
+| 18 | [Pair of Toys](https://codeforces.com/problemset/problem/1023/B) | 1100 | NO |
+| 19 | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1100 | YES |
+| 20 | [Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) | 1100 | NO |
+| 21 | [Polycarp and Letters](https://codeforces.com/problemset/problem/864/B) | 1100 | YES |
+| 22 | [Chocolates](https://codeforces.com/problemset/problem/1139/B) | 1100 | NO |
 | 23 | [The Eternal Immortality](https://codeforces.com/problemset/problem/869/B) | 1100 |  |
 | 24 | [Getting an A](https://codeforces.com/problemset/problem/991/B) | 1100 |  |
 | 25 | [Crossword solving](https://codeforces.com/problemset/problem/822/B) | 1100 |  |
